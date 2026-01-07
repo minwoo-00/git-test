@@ -1,9 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:2e8cef&height=180&text=Hi👋%20I'm%20Minwoo%20Cho&animation=twinkling&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:2e8cef&height=180&text=Hi👋%20I'm%20Woojin%20Cho&animation=twinkling&fontColor=ffffff&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 우리Fisa 6기 클라우드 엔지니어링 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 우리Fisa 100기 클라우드 엔지니어링 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
