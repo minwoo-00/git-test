@@ -1,3 +1,6 @@
+<img width="2110" height="1142" alt="image" src="https://github.com/user-attachments/assets/4a1d6d61-1b8a-4822-aa7d-ad9b756746c5" />
+
+
 <h1>hihi</h1>
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:2e8cef&height=180&text=Hi👋%20I'm%20Minwoo%20Cho&animation=twinkling&fontColor=ffffff&fontSize=40" />
