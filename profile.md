@@ -1,5 +1,3 @@
-<img width="2110" height="1142" alt="image" src="https://github.com/user-attachments/assets/4a1d6d61-1b8a-4822-aa7d-ad9b756746c5" />
-
 
 <h1>hihi</h1>
 <div align= "center">
